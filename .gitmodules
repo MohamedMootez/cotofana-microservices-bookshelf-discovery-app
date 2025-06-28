@@ -1,0 +1,9 @@
+[submodule "cotofana-auth-service"]
+	path = cotofana-auth-service
+	url = https://github.com/MohamedMootez/cotofana-auth-service.git
+[submodule "cotofana-proxy"]
+	path = cotofana-proxy
+	url = https://github.com/MohamedMootez/cotofana-proxy.git
+[submodule "cotofana-user-managment"]
+	path = cotofana-user-managment
+	url = git@github.com:MohamedMootez/cotofana-user-managment-service.git
